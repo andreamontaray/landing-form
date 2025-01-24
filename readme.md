@@ -1,6 +1,6 @@
 # Bono Landing Page
 
-A simple responsive landing page featuring a working form. [Visit Live Site]()
+A simple responsive landing page featuring a working form. [Visit Live Site](https://bono-landing-form.netlify.app)
 
 ## Features
 
